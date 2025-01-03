@@ -107,12 +107,12 @@
 
 #### cs 기반 면접질문
 
-#### 자소서 및 이력서 기만 면접 질문
+#### 자소서 및 이력서 기반 면접 질문
 
 ## 팀원 소개
 
-|                신동구                |                     안채원                     |                   정기석                   |
-| :----------------------------------: | :--------------------------------------------: | :----------------------------------------: |
-|     <img src="#" width="100" />      |          <img src="#" width="100" />           |         <img src="#" width="100">          |
-|            **Full-Stack**            |                 **Full-Stack**                 |               **Full-Stack**               |
-| [@shsh99](https://github.com/shsh99) | [@woneveryday](https://github.com/woneveryday) | [@wjdrltjr5](https://github.com/wjdrltjr5) |
+|                신동구                |                     안채원                     |                   정기석                   |                 장호영                 |
+| :----------------------------------: | :--------------------------------------------: | :----------------------------------------: | :------------------------------------: |
+|     <img src="#" width="100" />      |          <img src="#" width="100" />           |         <img src="#" width="100">          |       <img src="#" width="100">        |
+|            **Full-Stack**            |                 **Full-Stack**                 |               **Full-Stack**               |             **Full-Stack**             |
+| [@shsh99](https://github.com/shsh99) | [@woneveryday](https://github.com/woneveryday) | [@wjdrltjr5](https://github.com/wjdrltjr5) | [@jang643](https://github.com/jang643) |
