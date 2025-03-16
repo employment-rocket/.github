@@ -105,6 +105,9 @@
 
 ### 면접 질문
 
+#### 인성 질문
+![image](https://github.com/user-attachments/assets/6048bd7c-5ad7-4922-9d44-1185897e2abd)
+
 #### cs 기반 면접질문
 
 #### 자소서 및 이력서 기반 면접 질문
