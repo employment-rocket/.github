@@ -109,8 +109,13 @@
 ![image](https://github.com/user-attachments/assets/6048bd7c-5ad7-4922-9d44-1185897e2abd)
 
 #### cs 기반 면접질문
+![image](https://github.com/user-attachments/assets/065716be-a7ba-4ee6-b53c-10dd21a6895c)
 
 #### 자소서 및 이력서 기반 면접 질문
+![image](https://github.com/user-attachments/assets/2253a74d-1929-41b0-8d06-40f2a517bedd)
+![image](https://github.com/user-attachments/assets/fee16a19-9410-4fff-bdc1-ede66a65162e)
+![image](https://github.com/user-attachments/assets/832d350b-92a9-459a-b8e8-fc3c0744ed01)
+
 
 ## 팀원 소개
 
