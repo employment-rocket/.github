@@ -122,6 +122,10 @@
 ![image](https://github.com/user-attachments/assets/fee16a19-9410-4fff-bdc1-ede66a65162e)
 ![image](https://github.com/user-attachments/assets/832d350b-92a9-459a-b8e8-fc3c0744ed01)
 
+#### 나의 스크립트
+![image](https://github.com/user-attachments/assets/c2d23e16-7215-4351-aca8-ec96e0f453f1)
+![image](https://github.com/user-attachments/assets/bb51abf9-ec70-427c-8d0e-232015cac65c)
+
 
 ## 팀원 소개
 
