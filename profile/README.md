@@ -45,7 +45,7 @@
               <img src="https://img.shields.io/badge/Spring Security-2AC89F?style=for-the-badge&logo=Spring Security&logoColor=white">
               <img src="https://img.shields.io/badge/JPA-17219A?style=for-the-badge&logo=JPA&logoColor=white">
               <img src="https://img.shields.io/badge/QueryDSL-8A084B?style=for-the-badge&logo=QueryDSL&logoColor=white">
-              <img src="https://img.shields.io/badge/Redis-FE2E2E?style=for-the-badge&logo=Redis&logoColor=white">
+              <img src="https://img.shields.io/badge/mongodb-1DDB16?style=for-the-badge&logo=mongodb&logoColor=white">
         </div>
 
 <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Infra </h3>
@@ -131,26 +131,29 @@
 ### 면접 질문
 
 #### 인성 질문
+
 ![image](https://github.com/user-attachments/assets/6048bd7c-5ad7-4922-9d44-1185897e2abd)
 
 #### cs 기반 면접질문
+
 ![image](https://github.com/user-attachments/assets/065716be-a7ba-4ee6-b53c-10dd21a6895c)
 
 #### 면접 복기
+
 ![image](https://github.com/user-attachments/assets/b3f7ec5d-c563-49ff-93bd-c0efb18c6d8c)
 ![image](https://github.com/user-attachments/assets/aa6f2118-33db-4363-ad56-562d9b590d84)
 ![image](https://github.com/user-attachments/assets/c1861ce4-2f17-4d92-8f05-94cdca233895)
 
-
 #### 자소서 및 이력서 기반 면접 질문
+
 ![image](https://github.com/user-attachments/assets/2253a74d-1929-41b0-8d06-40f2a517bedd)
 ![image](https://github.com/user-attachments/assets/fee16a19-9410-4fff-bdc1-ede66a65162e)
 ![image](https://github.com/user-attachments/assets/832d350b-92a9-459a-b8e8-fc3c0744ed01)
 
 #### 나의 스크립트
+
 ![image](https://github.com/user-attachments/assets/c2d23e16-7215-4351-aca8-ec96e0f453f1)
 ![image](https://github.com/user-attachments/assets/bb51abf9-ec70-427c-8d0e-232015cac65c)
-
 
 ## 팀원 소개
 
