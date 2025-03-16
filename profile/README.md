@@ -111,6 +111,12 @@
 #### cs 기반 면접질문
 ![image](https://github.com/user-attachments/assets/065716be-a7ba-4ee6-b53c-10dd21a6895c)
 
+#### 면접 복기
+![image](https://github.com/user-attachments/assets/b3f7ec5d-c563-49ff-93bd-c0efb18c6d8c)
+![image](https://github.com/user-attachments/assets/aa6f2118-33db-4363-ad56-562d9b590d84)
+![image](https://github.com/user-attachments/assets/c1861ce4-2f17-4d92-8f05-94cdca233895)
+
+
 #### 자소서 및 이력서 기반 면접 질문
 ![image](https://github.com/user-attachments/assets/2253a74d-1929-41b0-8d06-40f2a517bedd)
 ![image](https://github.com/user-attachments/assets/fee16a19-9410-4fff-bdc1-ede66a65162e)
