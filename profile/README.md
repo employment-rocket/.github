@@ -3,7 +3,7 @@
 <p align="center">
   <img src="../image/logo.png">
   <br>
-  전체 프로젝트 기간 : 2024-11-15 ~ ing <br>
+  전체 프로젝트 기간 : 2024-11-15 ~ 2025-02-13 <br>
   
 </p>
 
